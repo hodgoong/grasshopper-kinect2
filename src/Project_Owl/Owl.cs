@@ -1,6 +1,3 @@
-﻿// Developed by Hojoong Chung(hodgoong@gmail.com) and Giulio Brugnaro(giuliobrugnaro@gmail.com)
-// Last update: 15 SEP 2015
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
