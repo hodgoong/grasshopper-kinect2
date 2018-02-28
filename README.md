@@ -5,9 +5,11 @@ Ref: https://hojoongchung.wordpress.com/tag/kinect-v2/
 * To download the GHA file, please go to the __Release__ tab.
 * Note that you may install ‘Kinect for Windows SDK 2.0’ to make the plugin work on your machine.
 
+Click below image to view the video showing how this component works
+[![Click to see the video](https://img.youtube.com/vi/N_5byI1DN18/0.jpg)](https://www.youtube.com/watch?v=N_5byI1DN18)
+
 ![Alt text](https://hojoongchung.files.wordpress.com/2015/10/capture.png "Pointclouds generated in Grasshopper using Kinect V2")
 
-[![Click to see the video](https://img.youtube.com/vi/N_5byI1DN18/0.jpg)](https://www.youtube.com/watch?v=N_5byI1DN18)
 
 ## Updated feature (Last update: 2015 SEP 16)
 
