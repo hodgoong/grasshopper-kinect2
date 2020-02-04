@@ -1,6 +1,6 @@
 # Project_Owl
 ### Grasshopper component to generate 3D pointclouds using Microsoft Kinect V2
-Ref: https://hojoongchung.wordpress.com/tag/kinect-v2/
+Ref: https://hojoongchung.blogspot.com/search/label/project%20owl
 
 ![Alt text](https://hojoongchung.files.wordpress.com/2015/10/capture.png "Pointclouds generated in Grasshopper using Kinect V2")
 
