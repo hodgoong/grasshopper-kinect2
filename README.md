@@ -19,4 +19,4 @@ Click below image to view the video showing how this component works
 - Multiple components can be added and run simultaneously
 - Most importantly, component icon has been added!!
 
-Please contact hodgoong@gmail.com for any questions, or suggestions.
+Please contact hojoong.chung(at)gmail.com for any questions, or suggestions.
